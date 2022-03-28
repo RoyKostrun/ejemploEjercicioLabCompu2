@@ -3,7 +3,6 @@ Primer prueba de git
  
 ## Autor 
 * Roy **Kostrun**
-* Franco **Lomas**
 
 ## Contenido/Descripcion
 
